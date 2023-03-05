@@ -17,7 +17,7 @@ Precision- Recall
 Details of files given
 Leadscoring_Casestudy.ipynb : The python file showing coding and data analysis
 Assignment Subjective Questions.pdf : Some subjective questions answered
-Lead_Score_Case_Study.pdf : Final Presentation
+Leadscoring_Presentation.pdf : Final Presentation
 Leads.csv : Data worked on
 Leads Data Dictionary.xlsx : Data Dictionary
 Summary.pdf : Summary on what's done in the entire py file
